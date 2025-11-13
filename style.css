@@ -32,7 +32,7 @@
    padding:10px;
 }
 .side.one {
-   width:320px;
+   width:420px;
    transform:skew(10deg,20deg);
    background:linear-gradient(90deg, #fff, #fff 40%, #ddd);
 }
