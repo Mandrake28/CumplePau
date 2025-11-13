@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Sacramento');
 
 #card {
-   height:1200px;
+   height:500px;
    width:800px;
    margin:5em auto;
    position: fixed;
@@ -17,7 +17,7 @@
    text-align: center;
 }
 #card p {
-   font-size: 1em;
+   font-size: 1.5em;
    text-align: justify;
    padding-left: 30px; /* Espacio en blanco a la izquierda */
    padding-right: 30px; /* Espacio en blanco a la derecha */
@@ -32,7 +32,7 @@
    padding:10px;
 }
 .side.one {
-   width:520px;
+   width:320px;
    transform:skew(10deg,20deg);
    background:linear-gradient(90deg, #fff, #fff 40%, #ddd);
 }
@@ -45,7 +45,7 @@ body {
    display: flex;
    align-items: center;
    justify-content: center;
-   height: 90vh;
+   height: 100vh;
    font-family: 'Sacramento', cursive;
    background-color: #f1e3d3;
    overflow: hidden;
@@ -168,9 +168,3 @@ body {
  .valentines-day:hover .text {
    transform: translateY(-50px);
  }
- 
- 
-
-
-
- 
