@@ -32,7 +32,7 @@
    padding:10px;
 }
 .side.one {
-   width:420px;
+   width:520px;
    transform:skew(10deg,20deg);
    background:linear-gradient(90deg, #fff, #fff 40%, #ddd);
 }
@@ -45,7 +45,7 @@ body {
    display: flex;
    align-items: center;
    justify-content: center;
-   height: 100vh;
+   height: 90vh;
    font-family: 'Sacramento', cursive;
    background-color: #f1e3d3;
    overflow: hidden;
